@@ -1,0 +1,396 @@
+@media (max-width: 86.5rem) {
+  .about-text {
+    font-size: 1.4rem;
+  }
+  .my-img {
+    width: 26rem;
+    height: 31rem;
+  }
+  .hero-paper {
+    width: 20rem;
+  }
+}
+@media (max-width: 79rem) {
+  .bring-box-head {
+    max-width: 15rem;
+  }
+  .bring-box-text {
+    font-size: 1rem;
+  }
+  .about-text-box {
+    row-gap: 3rem;
+  }
+  .contact-section::before {
+    height: 18rem;
+    width: 18rem;
+  }
+}
+@media (max-width: 70rem) {
+  .nav-list {
+    font-size: 1.2rem;
+  }
+  .hero-title {
+    font-size: 6rem;
+  }
+
+  .hero-des {
+    font-size: 5rem;
+  }
+
+  .text-title {
+    font-size: 1.4rem;
+  }
+  .title-btn {
+    font-size: 1.2rem;
+  }
+  .hero-section {
+    padding: 2rem 0;
+  }
+  .about-head,
+  .service-head,
+  .contact-head {
+    font-size: 4rem;
+  }
+  .hero-paper {
+    width: 40vh;
+    top: 4rem;
+    right: 1rem;
+  }
+  .contact-section::before {
+    height: 14rem;
+    width: 14rem;
+    top: 114px;
+  }
+  .service-box-head {
+    font-size: 1.6rem;
+  }
+  .service-box-text {
+    font-size: 1.2rem;
+  }
+  .form {
+    max-width: 20rem;
+  }
+  .form-box-text {
+    font-size: 1rem;
+  }
+  .contact-text {
+    font-size: 4.8rem;
+  }
+  .about-text {
+    font-size: 1.2rem;
+  }
+  .my-img {
+    width: 24rem;
+    height: 29rem;
+  }
+  .service-box {
+    row-gap: 6rem;
+  }
+  .bring-icon {
+    height: 1.4rem;
+    width: 1.4rem;
+  }
+}
+@media (max-width: 61rem) {
+  .container {
+    padding: 1rem 2rem;
+  }
+  .header {
+    padding: 2rem;
+  }
+  .hero {
+    padding: 0 2rem;
+  }
+  .secondary-about-head {
+    font-size: 2.8rem;
+  }
+  .bring-box-head {
+    font-size: 1.2rem;
+    max-width: 8rem;
+  }
+  .intouch-box {
+    margin-bottom: 4rem;
+  }
+  .contact-box {
+    grid-template-columns: 1fr;
+  }
+  .about-text-head {
+    font-size: 1.8rem;
+  }
+  .bring-box-head {
+    font-size: 1rem;
+  }
+  .bring-box-text {
+    font-size: 0.8rem;
+    letter-spacing: 0.1rem;
+  }
+  .service-box-head {
+    font-size: 1.2rem;
+  }
+  .service-box-text {
+    font-size: 1rem;
+  }
+  .about-text {
+    font-size: 1rem;
+  }
+  .contact-text {
+    font-size: 3.8rem;
+  }
+  .form {
+    max-width: 40rem;
+    margin-bottom: 4rem;
+  }
+  .form-box {
+    row-gap: 2rem;
+  }
+  .linkedin-box {
+    display: flex;
+    justify-content: space-around;
+  }
+}
+@media (max-width: 52rem) {
+  .nav-list {
+    margin: 0 auto;
+  }
+  .hero-des {
+    font-size: 4.2rem;
+  }
+  .hero-title {
+    font-size: 5rem;
+  }
+  .text-title {
+    font-size: 1.2rem;
+  }
+  .title-btn {
+    font-size: 1rem;
+  }
+  .hero-paper {
+    height: 14rem;
+    width: 14rem;
+  }
+  .about-head,
+  .service-head,
+  .contact-head {
+    font-size: 2.8rem;
+  }
+  .my-img {
+    width: 18rem;
+    height: 23rem;
+  }
+  .about-box {
+    grid-template-columns: 1fr;
+  }
+  .about-text-box {
+    padding-top: 2rem;
+  }
+  .about-text {
+    font-size: 1.2rem;
+  }
+  .my-img {
+    justify-self: center;
+    width: 20rem;
+    height: 23rem;
+  }
+  .bring-box {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 4rem;
+  }
+  .bring-box-head {
+    max-width: 18rem;
+    font-size: 1.2rem;
+  }
+  .secondary-about-head {
+    font-size: 2.4rem;
+  }
+  .service-box {
+    grid-template-columns: 1fr 1fr;
+  }
+  .contact-text {
+    font-size: 3.4rem;
+  }
+  .form-box {
+    row-gap: 1rem;
+  }
+  .form-box-text {
+    font-size: 1.2rem;
+  }
+  .contact-section::before {
+    height: 10rem;
+    width: 10rem;
+    top: 100px;
+  }
+  /* .link-text-first,
+  .link-text-second {
+    font-size: 1.4rem;
+  } */
+}
+@media (max-width: 43rem) {
+  .header::after {
+    display: none;
+  }
+  .header {
+    padding-bottom: 1.2rem;
+    border-bottom: 1px solid #ffffff96;
+  }
+
+  .hero {
+    padding: 0;
+  }
+  .about-section {
+    padding: 0rem 0;
+  }
+  .hero-des {
+    font-size: 4rem;
+  }
+  .hero-title {
+    font-size: 3.8rem;
+  }
+  .hero-paper {
+    top: 7rem;
+    height: 12rem;
+    width: 12rem;
+  }
+  .nav-list {
+    margin: 0 auto;
+    padding: 0;
+  }
+  .nav {
+    display: flex;
+  }
+  .text-title {
+    font-size: 1.2rem;
+  }
+
+  .about-head,
+  .contact-head {
+    font-size: 2.6rem;
+    margin-right: 2rem;
+    padding: 2rem;
+  }
+  .bring-box {
+    row-gap: 3rem;
+    column-gap: 2rem;
+  }
+
+  .service-head {
+    margin-left: 2rem;
+    font-size: 2.6rem;
+    padding: 2rem;
+  }
+  .service-box {
+    grid-template-columns: 1fr;
+    row-gap: 4rem;
+  }
+  .service-box-head {
+    font-size: 1.8rem;
+  }
+  .service-box-text {
+    font-size: 1.2rem;
+  }
+  .single-service {
+    max-width: 36rem;
+  }
+  .contact-section::before {
+    height: 12rem;
+    width: 12rem;
+    top: 126px;
+  }
+  .social-icon {
+    height: 2rem;
+    width: 2rem;
+  }
+  .contact-section::before {
+    display: none;
+  }
+  .linkedin-box {
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 34rem) {
+  .container {
+    padding: 1.5rem;
+  }
+  .hero {
+    padding: 0;
+  }
+  .hero-des {
+    font-size: 3rem;
+  }
+  .hero-title {
+    font-size: 3rem;
+  }
+  .nav-list {
+    font-size: 0.8rem;
+  }
+
+  .hero-paper {
+    top: 6rem;
+    height: 6em;
+    width: 6rem;
+  }
+  .title-text-box {
+    display: flex;
+    gap: 1rem;
+  }
+  .title-btn {
+    font-size: 0.8rem;
+    padding: 0.1rem 1.2rem;
+  }
+  .title-btn-box {
+    display: flex;
+    gap: 2rem;
+    margin-top: 1.5rem;
+    padding: 0;
+  }
+  .text-title {
+    font-size: 1rem;
+  }
+  .title-text-box p:first-child {
+    padding-right: 0.8rem;
+  }
+  .title-btn {
+    font-size: 0.8rem;
+    padding: 0.1rem 1.2rem;
+  }
+  .my-img {
+    width: 18rem;
+    height: 21rem;
+  }
+  .about-text {
+    font-size: 1rem;
+  }
+  .about-head,
+  .contact-head {
+    font-size: 2rem;
+    margin-right: 1rem;
+    padding: 0 1rem;
+  }
+  .service-head {
+    font-size: 2rem;
+    padding: 0 1rem;
+  }
+  .service-section {
+    padding: 0;
+  }
+  .secondary-about-head {
+    font-size: 2rem;
+  }
+  .bring-box {
+    display: grid;
+    grid-template-columns: 1fr;
+    row-gap: 3rem;
+  }
+  .bring-boxes {
+    max-width: 24rem;
+  }
+  .bring-box-text {
+    font-size: 1rem;
+  }
+  .form {
+    max-width: 20rem;
+  }
+  .contact-text {
+    font-size: 3rem;
+  }
+}
